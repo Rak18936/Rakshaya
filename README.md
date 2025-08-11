@@ -13,7 +13,7 @@ This repository contains three tasks completed as part of my internship/project 
 💳 **Task 2: Credit Card Data Analysis**
 
 * **File:** `credictcard.ipynb`
-* **Description:** Analyzed credit card transaction dataset to detect spending patterns and identify anomalies using EDA techniques.
+* **Description:** Analyzed credit card transaction dataset to detect spending patterns and identify anomalies .
 * **Explanation:** Leveraged Pandas for trend analysis and Matplotlib/Seaborn for transaction pattern visualizations to highlight unusual activity.
 
 ---
